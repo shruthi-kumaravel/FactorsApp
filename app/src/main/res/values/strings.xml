@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FactorApp</string>
+    <string name="button">Button</string>
+    <string name="start">start</string>
+    <string name="score">Score</string>
+    <string name="highscore">Highscore</string>
+    <string name="_0">0</string>
+    <string name="Next"><![CDATA[>]]></string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="enter">Enter</string>
+</resources>
